@@ -18,6 +18,8 @@
 
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/vodkq/vodkq/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 👋 About Me
