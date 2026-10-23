@@ -20,6 +20,29 @@
 
 ![Snake animation](https://raw.githubusercontent.com/vodkq/vodkq/output/github-contribution-grid-snake.svg)
 
+
+## 🌐 My Website
+
+<div align="center">
+
+<a href="https://vodkq.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/VISIT%20MY%20WEBSITE-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my website"/>
+</a>
+
+<br/><br/>
+
+<a href="https://vodkq.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/vodkq.github.io-0D1117?style=for-the-badge&logo=githubpages&logoColor=A78BFA" alt="vodkq.github.io"/>
+</a>
+
+<p>
+  ✨ Explore my website and projects
+  <br/>
+  💜 Designed and created by kapusta
+</p>
+
+</div>
+
 ---
 
 ## 👋 About Me
