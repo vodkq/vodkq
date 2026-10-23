@@ -22,30 +22,19 @@
 
 ## 👋 About Me
 
-```python
-class Developer:
-    name = "kapusta"
-    role = ["Developer", "Web Designer"]
-    location = "Russia"
-    level = "Beginner"
+Hey! I'm **kapusta** 👋
 
-    interests = [
-        "Web Development",
-        "Web Design",
-        "Programming",
-        "Exploring New Technologies"
-    ]
+💻 Beginner Developer & Web Designer from Russia 🇷🇺
 
-    currently_learning = ["Python", "HTML", "CSS"]
+🎨 I love exploring web design and creating beautiful interfaces.
 
-    motto = "Small steps. Constant progress."
-```
+🌱 Currently learning **Python, HTML & CSS**.
 
-- 🌱 I'm a beginner learning programming step by step.
-- 🎨 I enjoy the combination of web development and design.
-- 🔍 I'm exploring different areas of technology.
-- 🛠️ I want to improve my skills by building real projects.
-- 🎯 My goal is to learn, experiment, and keep growing.
+🔍 Exploring different areas of programming and discovering new technologies.
+
+🎯 My goal is to improve my skills, build cool projects, and never stop learning.
+
+> ✨ *Small steps. Constant progress.*
 
 ---
 
@@ -91,8 +80,6 @@ I'm currently learning and working toward building my own projects.
 - 🧪 **Learning through experiments**
 - ⚡ **Building something new, one step at a time**
 
-Check out my repositories:
-
 <div align="center">
 
 [![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-8B5CF6?style=for-the-badge&logo=github)](https://github.com/vodkq?tab=repositories)
@@ -103,13 +90,11 @@ Check out my repositories:
 
 ## 🌌 My Journey
 
-```text
-[✓] Starting my programming journey
-[✓] Exploring Python, HTML and CSS
-[>] Practicing and improving my skills
-[ ] Building more personal projects
-[ ] Exploring new technologies
-```
+- 🌱 Starting my programming journey
+- 🐍 Learning Python
+- 🌐 Exploring HTML and CSS
+- 🎨 Developing my web design skills
+- 🚀 Working toward my first projects
 
 ---
 
