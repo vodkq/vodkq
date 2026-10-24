@@ -62,6 +62,11 @@ Hey! I'm **kapusta** 👋
 > ✨ *Small steps. Constant progress.*
 
 ---
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
