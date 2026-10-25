@@ -31,7 +31,7 @@
 
 ---
 
-## 🌐 MY SOCIAL MEDIA
+## 🌐 My Social Media
 
 <div align="center">
 
