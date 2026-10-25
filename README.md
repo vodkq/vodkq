@@ -31,7 +31,7 @@
 
 ---
 
-## 🌐 Connect with me
+## 🌐 MY SOCIAL MEDIA
 
 <div align="center">
 
