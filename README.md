@@ -1,6 +1,6 @@
 <!-- Animated header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20vodkq&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Tester%20%26%20Developer&descSize=22&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I%20am%20vodkq&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Tester%20%26%20Developer&descSize=22&descAlignY=58" alt="header" />
 </div>
 
 <!-- Typing animation -->
@@ -18,7 +18,7 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/vodkq/vodkq/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/vodkq/vodkq/output/github-contribution-grid-snake.svg) 
 
 ---
 
@@ -68,14 +68,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vodkq&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vodkq&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 </div>
 
 ---
