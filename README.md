@@ -1,65 +1,46 @@
-
+<!-- Animated header -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:00C2FF&height=200&section=header&text=kapusta&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Web%20Designer&descAlignY=60&descSize=18" width="100%" alt="kapusta banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+kapusta+%F0%9F%91%8B;Beginner+Developer+%26+Web+Designer;Learning+Python%2C+HTML+%26+CSS;Exploring+new+ideas+one+line+at+a+time" alt="Animated introduction"/>
-
-<p>
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-8B5CF6?style=for-the-badge" alt="Learning"/>
-  <img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-06B6D4?style=for-the-badge" alt="Web development"/>
-  <img src="https://img.shields.io/badge/LOCATION-RUSSIA-64748B?style=for-the-badge" alt="Russia"/>
-</p>
-
-### ✦ Learning, creating, and improving every day ✦
-
-[![GitHub](https://img.shields.io/badge/GitHub-vodkq-181717?style=flat-square&logo=github)](https://github.com/vodkq)
-[![Profile Views](https://komarev.com/ghpvc/?username=vodkq&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)](https://github.com/vodkq)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20vodkq&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Tester%20%26%20Developer&descSize=22&descAlignY=58" alt="header" />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/vodkq/vodkq/output/github-contribution-grid-snake.svg)
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://github.com/vodkq">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=560&lines=QA+Tester+%26+Developer;Python+%7C+Playwright+%7C+Postman;Breaking+things+to+make+them+better+%F0%9F%90%9B;Always+learning%2C+always+testing+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</div>
 
-
-## 🌐 My Website
+<br/>
 
 <div align="center">
-
-<a href="https://vodkq.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/VISIT%20MY%20WEBSITE-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my website"/>
-</a>
-
-<br/><br/>
-
-<a href="https://vodkq.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/vodkq.github.io-0D1117?style=for-the-badge&logo=githubpages&logoColor=A78BFA" alt="vodkq.github.io"/>
-</a>
-
-<p>
-  ✨ Explore my website and projects
-  <br/>
-  💜 Designed and created by kapusta
-</p>
-
+  <img src="https://komarev.com/ghpvc/?username=vodkq&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 </div>
 
 ---
 
-## 👋 About Me
+![Snake animation](https://raw.githubusercontent.com/vodkq/vodkq/output/github-contribution-grid-snake.svg)
 
-Hey! I'm **kapusta** 👋
+---
 
-💻 Beginner Developer & Web Designer from Russia 🇷🇺
+## 👋 About me
 
-🎨 I love exploring web design and creating beautiful interfaces.
+- 🧪 I work as a **QA tester** and **developer**
+- 🌱 Beginner in programming and testing, learning by doing
+- 🐛 I like finding bugs before users do
+- 💬 Feel free to open an issue or say hi!
 
-🌱 Currently learning **Python, HTML & CSS**.
+---
 
-🔍 Exploring different areas of programming and discovering new technologies.
+## 🌐 Connect with me
 
-🎯 My goal is to improve my skills, build cool projects, and never stop learning.
+<div align="center">
 
-> ✨ *Small steps. Constant progress.*
+[![Website](https://img.shields.io/badge/Website-vodkq.github.io-f3ebdd?style=for-the-badge&logo=githubpages&logoColor=black)](https://vodkq.github.io/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/loli_lomik)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lomi__lomi__kik)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kapysta_killer/)
+
+</div>
 
 ---
 
@@ -67,68 +48,45 @@ Hey! I'm **kapusta** 👋
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode&theme=dark" alt="Technologies"/>
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-Learning-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-Learning-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vodkq&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vodkq&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=vodkq&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA" alt="GitHub contribution streak"/>
-
-</div>
-
-<sub>Statistics are generated from GitHub activity and public repositories. Language usage does not necessarily represent skill level.</sub>
-
----
-
-## 🚀 Featured Projects
-
-I'm currently learning and working toward building my own projects.
-
-- 💡 **More projects coming soon!**
-- 🧪 **Learning through experiments**
-- ⚡ **Building something new, one step at a time**
-
-<div align="center">
-
-[![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-8B5CF6?style=for-the-badge&logo=github)](https://github.com/vodkq?tab=repositories)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🌌 My Journey
+## 📊 GitHub Stats
 
-- 🌱 Starting my programming journey
-- 🐍 Learning Python
-- 🌐 Exploring HTML and CSS
-- 🎨 Developing my web design skills
-- 🚀 Working toward my first projects
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vodkq&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vodkq&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vodkq&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vodkq&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+</div>
 
 ---
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+### 🐞 *"Testing leads to failure, and failure leads to understanding."*
 
-*Every expert was once a beginner.*
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:6A5ACD,100:8A2BE2&height=100&section=footer" width="100%" alt="Footer banner"/>
-
+<!-- Animated footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 </div>
