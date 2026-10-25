@@ -1,12 +1,12 @@
 <!-- Animated header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I%20am%20vodkq&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Tester%20%26%20Developer&descSize=22&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I%20am%20vodkq&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Tester%20and%20Developer&descSize=22&descAlignY=58" alt="header" />
 </div>
 
 <!-- Typing animation -->
 <div align="center">
   <a href="https://github.com/vodkq">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=560&lines=QA+Tester+%26+Developer;Python+%7C+Playwright+%7C+Postman;Breaking+things+to+make+them+better+%F0%9F%90%9B;Always+learning%2C+always+testing+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=560&lines=QA+Tester+and+Developer;Python+%7C+Playwright+%7C+Postman;Breaking+things+to+make+them+better+%F0%9F%90%9B;Always+learning%2C+always+testing+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
